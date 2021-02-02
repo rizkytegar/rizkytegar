@@ -1,33 +1,33 @@
-<?php
-include("config.php");
-// cek apakah tombol daftar sudah diklik atau blum?
-if(isset($_POST['daftar'])){
-// ambil data dari formulir
-$nama = $_POST['nama'];
-$alamat = $_POST['alamat'];
-$jk = $_POST['jenis_kelamin'];
-$agama = $_POST['agama'];
-$sekolah = $_POST['sekolah_asal'];
-// buat query
-$sql = "INSERT INTO calon_siswa (nama, alamat, jenis_kelamin,
-agama, sekolah_asal) VALUE ('$nama', '$alamat', '$jk', '$agama',
-'$sekolah')";
-$query = mysqli_query($db, $sql);
-// apakah query simpan berhasil?
-if( $query ) {
-// kalau berhasil alihkan ke halaman index.php dengan
 
-$status = "sukses";
-
-header('Location: index.php?status=sukses');
-} else {
-// kalau gagal alihkan ke halaman indek.php dengan
-
-$status = "gagal";
-
-header('Location: index.php?status=gagal');
-}
-} else {
-die("Akses dilarang...");
-}
-?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pendaftaran Siswa Baru</title>
+</head>
+<body>
+    <header>
+    <h3>Pendaftaran Siswa Baru</h3>
+    <h1>SMK CODING</h1>
+    </header>
+    <h4>Menu</h4>
+    <nav>
+        <?php if(isset($_GET['status'])):?>
+        <p>
+            <?php
+            if($_GET['status'] == 'sukses'){
+                echo  "pendaftaran berhasil";
+            }else{
+                echo  "pedaftaran gagal";
+            }
+            ?>
+        </p>
+      <?php endif;?>
+    <ul>
+    <a href="form-daftar.php">Daftar Baru</a>
+    <a href="list-siswa.php">Pendaftar</a>
+    </ul>
+    </nav>
+</body>
+</html>
