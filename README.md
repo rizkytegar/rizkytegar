@@ -7,3 +7,4 @@ I'm Rizky Tegar. I'm a Full Stack Web Developer
 ### Top Lang
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkytegar)](https://github.com/rizkytegar)
+
