@@ -11,5 +11,5 @@ see more about me here
 
 - [@instagram](https://www.instagram.com/_rizky.dev/)
 - [@github profile](https://github.com/rizkytegar/)
-- - [@github labs & project](https://github.com/rizkydev-project)
+- [@github labs & project](https://github.com/rizkydev-project)
 - [@blog](https://www.rizkytegar.my.id/)
