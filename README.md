@@ -3,7 +3,7 @@
 I'm Rizky Tegar. I'm a Full Stack Web Developer
 
 see more about me here
- [https://rizkytegar.github.io](https://rizkytegar.github.io)
+ [https://rizkytegar.my.id/about](https://rizkytegar.my.id/about)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkytegar&show_icons=true)
 
