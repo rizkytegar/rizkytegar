@@ -10,4 +10,4 @@ see more about me here
 ## Contact
 
 - [@instagram](https://www.instagram.com/_rizky.dev/)
-- [@blog](https://blog.rizkytegar.my.id/)
+- [@blog](https://rizkytegar.my.id/)
