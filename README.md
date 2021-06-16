@@ -11,4 +11,4 @@ see more about me here
 
 - [@instagram](https://www.instagram.com/_rizky.dev/)
 - [@blog](https://rizkytegar.my.id/)
-- [@lab coding](http://lab.rizkytegar.my.id/)
+
