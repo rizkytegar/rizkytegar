@@ -12,3 +12,4 @@ see more about me here
 - [@instagram](https://www.instagram.com/_rizky.dev/)
 - [@blog](https://rizkytegar.my.id/)
 
+![](https://komarev.com/ghpvc/?username=rizkytegar&label=rizkytegar's+profile+visitor) ![](https://img.shields.io/github/stars/rizkytegar?style=social)
