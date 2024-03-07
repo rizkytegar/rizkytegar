@@ -1,6 +1,18 @@
-# rizkytegar-site
+<h1><img src="https://github.com/images/modules/search/mona-love.png" width="3%"> Stay humble</h1>
 
-Portfolio Websites use Github APIs for content. Built With React, Vite, and Tailwind CSS.
+<h1>Stats</h1>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[![](https://komarev.com/ghpvc/?username=rizkytegar&label=rizkytegar+profile+visitor&style=for-the-badge)
+](https://komarev.com/ghpvc/?username=rizkytegar&label=rizkytegar+profile+visitor&style=for-the-badge)
+<img src="https://img.shields.io/github/followers/rizkytegar?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+
+
+<h1>Hello, I am a Beginner</h1>
+ 
+
+- Work Position as Full Stack Web Developer. Focus on Backend/Server Side Programming. 
+- Volunteer as a Programmer Mentor and Trainer.
+
+<h1>Contact</h1>
+
+- 📫 How to reach me: mail.rizkytegar@gmail.com
