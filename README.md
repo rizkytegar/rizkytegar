@@ -1,4 +1,4 @@
-# github-api-site
+# rizkytegar-site
 
 Portfolio Websites use Github APIs for content. Built With React, Vite, and Tailwind CSS.
 
