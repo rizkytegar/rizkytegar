@@ -17,9 +17,9 @@ export default function Home() {
   }
 
   useEffect(() => {
-    // setTimeout(() => {
+     setTimeout(() => {
       GetDataApi();
-    // }, 1500);
+     }, 1500);
   }, []);
 
   if (loading) {
