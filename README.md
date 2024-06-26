@@ -5,4 +5,4 @@
 - I'm interested in Web Development, and Cloud Computing  <br>
 - Connect With Me : [Linkedin](https://www.linkedin.com/in/rizkytegarpratama/) <br>
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,nodejs,react,express,js,ts,gcp,aws,postgres,mysql&theme=light)](https://github.com/rizkytegar)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,nodejs,jquery,react,express,js,ts,gcp,aws,bash,postgres,mysql,tailwind,bootstrap&theme=light&perline=8)](https://github.com/rizkytegar)
