@@ -4,5 +4,7 @@
 - Hi 👋 I'm Rizky Tegar Pratama<br>
 - I'm interested in Web Development, and Cloud Computing  <br>
 - Connect With Me : [Linkedin](https://www.linkedin.com/in/rizkytegarpratama/) <br>
+- I am interested in working remotely from abroad (outside Indonesia), contact me if you are interested in recruiting me: mail.rizkytegar@gmail.com
+
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,symfony,nodejs,jquery,react,express,js,ts,gcp,aws,bash,postgres,mysql,tailwind,bootstrap&theme=light&perline=8)](https://github.com/rizkytegar)
