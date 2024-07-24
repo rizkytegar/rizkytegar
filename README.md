@@ -3,8 +3,6 @@
 
 ## Rizky Tegar Pratama 
 
-📍 **Remote Work Enthusiast | Full Stack Software Developer | Cloud Computing Enthusiast**
-
 💼 Open to remote opportunities outside Indonesia. Reach me at [mail.rizkytegar@gmail.com](mailto:mail.rizkytegar@gmail.com)
 
 ---
