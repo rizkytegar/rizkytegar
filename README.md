@@ -1,2 +1,3 @@
 ##  _ _ dwky _ _
- > a noob and weak programmer
+ > Look for new opportunities as soon as possible
+
